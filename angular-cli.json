@@ -23,7 +23,7 @@
     }
   },
   "defaults": {
-    "prefix": "app",
+    "prefix": "yt",
     "sourceDir": "src",
     "styleExt": "scss",
     "prefixInterfaces": false,
